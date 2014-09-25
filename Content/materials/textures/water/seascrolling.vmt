@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"textures/water/seascrolling"
+
+"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .08
+			"texturescrollangle" 0
+		}
+		
+	}
+}

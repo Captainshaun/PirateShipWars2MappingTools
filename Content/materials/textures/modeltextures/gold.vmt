@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "textures/ship/gold"
+	"$normalmap" "textures/ship/gold_nrm"
+	"$surfaceprop" "metal"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" ".9"	
+	"$phongfresnelranges"	"[.5 1 2]"
+	"$phongalbedotint" "1"
+}

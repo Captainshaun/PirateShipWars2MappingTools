@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "textures/Ship/wood/shipfloor_01"
+	"$bumpmap" "textures/Ship/wood/shipfloor_01_normal"
+	"$surfaceprop" "wood"
+}
+

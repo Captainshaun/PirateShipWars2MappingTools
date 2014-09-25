@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "textures/ship/wood/shipfloor_01"
+	"$bumpmap" "textures/ship/wood/shipfloor_01_normal"
+	"$surfaceprop" "wood"
+}
+
